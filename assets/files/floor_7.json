@@ -1,0 +1,2142 @@
+{
+    "floor": 7,
+    "name": "7th floor",
+    "edgeVertics": [],
+    "colData": [
+        {
+            "id": 1,
+            "rowData": [
+                {
+                    "node": 1,
+                    "name": "R-717",
+                    "flex": 1,
+                    "color": "0x000000FF",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 2,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFFC8E6C9",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFC8E6C9"
+                },
+                {
+                    "node": 3,
+                    "name": "R-716",
+                    "flex": 1,
+                    "color": "0x000000FF",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 4,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFFC8E6C9",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFC8E6C9"
+                },
+                {
+                    "node": 5,
+                    "name": "R-725",
+                    "flex": 1,
+                    "color": "0x000000FF",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 6,
+                    "name": "washroom",
+                    "flex": 1,
+                    "color": "0x000000FF",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 7,
+                    "name": "",
+                    "flex": 2,
+                    "color": "0xFFFFCCBC",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFFCCBC"
+                },
+                {
+                    "node": 8,
+                    "name": "",
+                    "flex": 5,
+                    "color": "0xFF69F0AE",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFF69F0AE"
+                },
+                {
+                    "node": 9,
+                    "name": "",
+                    "flex": 2,
+                    "color": "0xFFFFCCBC",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFFCCBC"
+                },
+                {
+                    "node": 10,
+                    "name": "R-713",
+                    "flex": 1,
+                    "color": "0x000000FF",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 11,
+                    "name": "R-712",
+                    "flex": 1,
+                    "color": "0x000000FF",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 12,
+                    "name": "R-711",
+                    "flex": 1,
+                    "color": "0x000000FF",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 13,
+                    "name": "R-710",
+                    "flex": 1,
+                    "color": "0x000000FF",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 14,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFFC8E6C9",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFC8E6C9"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "rowData": [
+                {
+                    "node": 15,
+                    "name": "R-718",
+                    "flex": 1,
+                    "color": "0x000000FF",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 16,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFFC8E6C9",
+                    "border-top": "0xFFC8E6C9",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFC8E6C9",
+                    "border-bottom": "0xFFC8E6C9"
+                },
+                {
+                    "node": 17,
+                    "name": "corridor",
+                    "flex": 1,
+                    "color": "0xFFC8E6C9",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFC8E6C9",
+                    "border-right": "0xFFC8E6C9",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 18,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFFC8E6C9",
+                    "border-top": "0xFFC8E6C9",
+                    "border-left": "0xFFC8E6C9",
+                    "border-right": "0xFFC8E6C9",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 19,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFFC8E6C9",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFC8E6C9",
+                    "border-right": "0xFFC8E6C9",
+                    "border-bottom": "0xFFC8E6C9"
+                },
+                {
+                    "node": 20,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFFC8E6C9",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFC8E6C9",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFC8E6C9"
+                },
+                {
+                    "node": 7,
+                    "name": "",
+                    "flex": 2,
+                    "color": "0xFFFFCCBC",
+                    "border-top": "0xFFFFCCBC",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFFCCBC"
+                },
+                {
+                    "node": 8,
+                    "name": "Rooftop",
+                    "flex": 5,
+                    "color": "0xFF69F0AE",
+                    "border-top": "0xFF69F0AE",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFF69F0AE"
+                },
+                {
+                    "node": 9,
+                    "name": "",
+                    "flex": 2,
+                    "color": "0xFFFFCCBC",
+                    "border-top": "0xFFFFCCBC",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFFCCBC"
+                },
+                {
+                    "node": 21,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFFC8E6C9",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFC8E6C9",
+                    "border-bottom": "0xFFC8E6C9"
+                },
+                {
+                    "node": 22,
+                    "name": "corridor",
+                    "flex": 1,
+                    "color": "0xFFC8E6C9",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFC8E6C9",
+                    "border-right": "0xFFC8E6C9",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 23,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFFC8E6C9",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFC8E6C9",
+                    "border-right": "0xFFC8E6C9",
+                    "border-bottom": "0xFFFF0000"
+                },
+                
+                {
+                    "node": 24,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFFC8E6C9",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFC8E6C9",
+                    "border-right": "0xFFC8E6C9",
+                    "border-bottom": "0xFFC8E6C9"
+                },
+                {
+                    "node": 25,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFFC8E6C9",
+                    "border-top": "0xFFC8E6C9",
+                    "border-left": "0xFFC8E6C9",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "rowData": [
+                {
+                    "node": 26,
+                    "name": "R-719",
+                    "flex": 1,
+                    "color": "0x000000FF",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 27,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFFC8E6C9",
+                    "border-top": "0xFFC8E6C9",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFC8E6C9"
+                },
+                {
+                    "node": 28,
+                    "name": "void",
+                    "flex": 2,
+                    "color": "0xFFF44336",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFF44336"
+                },
+                {
+                    "node": 29,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFFC8E6C9",
+                    "border-top": "0xFFC8E6C9",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFC8E6C9",
+                    "border-bottom": "0xFFC8E6C9"
+                },
+                {
+                    "node": 30,
+                    "name": "pharmacy department",
+                    "flex": 1,
+                    "color": "0xFFC8E6C9",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 7,
+                    "name": "",
+                    "flex": 2,
+                    "color": "0xFFFFCCBC",
+                    "border-top": "0xFFFFCCBC",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFFCCBC"
+                },
+                {
+                    "node": 8,
+                    "name": "",
+                    "flex": 5,
+                    "color": "0xFF69F0AE",
+                    "border-top": "0xFF69F0AE",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFF69F0AE"
+                },
+                {
+                    "node": 9,
+                    "name": "",
+                    "flex": 2,
+                    "color": "0xFFFFCCBC",
+                    "border-top": "0xFFFFCCBC",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFFCCBC"
+                },
+                {
+                    "node": 31,
+                    "name": "sociology department",
+                    "flex": 1,
+                    "color": "0xFFC8E6C9",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 32,
+                    "name": "void",
+                    "flex": 2,
+                    "color": "0xFFF44336",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFF44336"
+                },
+                {
+                    "node": 33,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFFC8E6C9",
+                    "border-top": "0xFFC8E6C9",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFC8E6C9"
+                },
+                
+                {
+                    "node": 34,
+                    "name": "R-709",
+                    "flex": 1,
+                    "color": "0x000000FF",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "rowData": [
+                {
+                    "node": 35,
+                    "name": "R-720",
+                    "flex": 1,
+                    "color": "0x000000FF",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 36,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFFC8E6C9",
+                    "border-top": "0xFFC8E6C9",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFC8E6C9"
+                },
+                {
+                    "node": 28,
+                    "name": "",
+                    "flex": 2,
+                    "color": "0xFFF44336",
+                    "border-top": "0xFFF44336",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 37,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFFC8E6C9",
+                    "border-top": "0xFFC8E6C9",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFC8E6C9"
+                },
+                {
+                    "node": 38,
+                    "name": "stair",
+                    "flex": 1,
+                    "color": "0x000000FF",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 7,
+                    "name": "",
+                    "flex": 2,
+                    "color": "0xFFFFCCBC",
+                    "border-top": "0xFFFFCCBC",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 8,
+                    "name": "",
+                    "flex": 2,
+                    "color": "0xFF69F0AE",
+                    "border-top": "0xFF69F0AE",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFF69F0AE"
+                },
+                
+                {
+                    "node": 39,
+                    "name": "stair",
+                    "flex": 1,
+                    "color": "0xFF69F0AE",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 8,
+                    "name": "",
+                    "flex": 2,
+                    "color": "0xFF69F0AE",
+                    "border-top": "0xFF69F0AE",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFF69F0AE"
+                },
+                {
+                    "node": 9,
+                    "name": "",
+                    "flex": 2,
+                    "color": "0xFFFFCCBC",
+                    "border-top": "0xFFFFCCBC",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFFCCBC"
+                },
+                {
+                    "node": 40,
+                    "name": "stair",
+                    "flex": 1,
+                    "color": "0x000000FF",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 32,
+                    "name": "",
+                    "flex": 2,
+                    "color": "0xFFF44336",
+                    "border-top": "0xFFF44336",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 41,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFFC8E6C9",
+                    "border-top": "0xFFC8E6C9",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFC8E6C9",
+                    "border-bottom": "0xFFC8E6C9"
+                },
+                
+                {
+                    "node": 42,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFFC8E6C9",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFC8E6C9",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "rowData": [
+                {
+                    "node": 43,
+                    "name": "R-721",
+                    "flex": 1,
+                    "color": "0x000000FF",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 44,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFFC8E6C9",
+                    "border-top": "0xFFC8E6C9",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFC8E6C9",
+                    "border-bottom": "0xFFC8E6C9"
+                },
+                {
+                    "node": 45,
+                    "name": "corridor",
+                    "flex": 1,
+                    "color": "0xFFC8E6C9",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFC8E6C9",
+                    "border-right": "0xFFC8E6C9",
+                    "border-bottom": "0xFFC8E6C9"
+                },
+                {
+                    "node": 46,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFFC8E6C9",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFC8E6C9",
+                    "border-right": "0xFFC8E6C9",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 47,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFFC8E6C9",
+                    "border-top": "0xFFC8E6C9",
+                    "border-left": "0xFFC8E6C9",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFC8E6C9"
+                },
+                {
+                    "node": 48,
+                    "name": "R-724",
+                    "flex": 1,
+                    "color": "0x000000FF",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 49,
+                    "name": "lift",
+                    "flex": 1,
+                    "color": "0x000000FF",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 50,
+                    "name": "lift",
+                    "flex": 1,
+                    "color": "0x000000FF",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 8,
+                    "name": "",
+                    "flex": 5,
+                    "color": "0xFF69F0AE",
+                    "border-top": "0xFF69F0AE",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFF69F0AE"
+                },
+                {
+                    "node": 51,
+                    "name": "lift",
+                    "flex": 1,
+                    "color": "0x000000FF",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 52,
+                    "name": "lift",
+                    "flex": 1,
+                    "color": "0x000000FF",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 53,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFFC8E6C9",
+                    "border-top": "0xFFC8E6C9",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFC8E6C9",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 54,
+                    "name": "corridor",
+                    "flex": 1,
+                    "color": "0xFFC8E6C9",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFC8E6C9",
+                    "border-right": "0xFFC8E6C9",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 55,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFFC8E6C9",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFC8E6C9",
+                    "border-right": "0xFFC8E6C9",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 56,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFFC8E6C9",
+                    "border-top": "0xFFC8E6C9",
+                    "border-left": "0xFFC8E6C9",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFC8E6C9"
+                },
+                
+                {
+                    "node": 57,
+                    "name": "R-708",
+                    "flex": 1,
+                    "color": "0x000000FF",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "rowData": [
+                {
+                    "node": 58,
+                    "name": "R-722",
+                    "flex": 1,
+                    "color": "0x000000FF",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 59,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFFC8E6C9",
+                    "border-top": "0xFFC8E6C9",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFC8E6C9",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 60,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFFC8E6C9",
+                    "border-top": "0xFFC8E6C9",
+                    "border-left": "0xFFC8E6C9",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 61,
+                    "name": "R-723",
+                    "flex": 1,
+                    "color": "0x000000FF",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 62,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFFC8E6C9",
+                    "border-top": "0xFFC8E6C9",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFC8E6C9",
+                    "border-bottom": "0xFFC8E6C9"
+                },
+                {
+                    "node": 63,
+                    "name": "Door to rooftop",
+                    "flex": 1,
+                    "color": "0xFFC8E6C9",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 64,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFF69F0AE",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFF69F0AE",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 65,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFF69F0AE",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFF69F0AE",
+                    "border-right": "0xFF69F0AE",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 66,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFF69F0AE",
+                    "border-top": "0xFF69F0AE",
+                    "border-left": "0xFF69F0AE",
+                    "border-right": "0xFF69F0AE",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 67,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFF69F0AE",
+                    "border-top": "0xFF69F0AE",
+                    "border-left": "0xFF69F0AE",
+                    "border-right": "0xFF69F0AE",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 68,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFF69F0AE",
+                    "border-top": "0xFF69F0AE",
+                    "border-left": "0xFF69F0AE",
+                    "border-right": "0xFF69F0AE",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 69,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFF69F0AE",
+                    "border-top": "0xFF69F0AE",
+                    "border-left": "0xFF69F0AE",
+                    "border-right": "0xFF69F0AE",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 70,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFF69F0AE",
+                    "border-top": "0xFF69F0AE",
+                    "border-left": "0xFF69F0AE",
+                    "border-right": "0xFF69F0AE",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 71,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFF69F0AE",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFF69F0AE",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 72,
+                    "name": "door",
+                    "flex": 1,
+                    "color": "0xFFC8E6C9",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 73,
+                    "name": "R-702",
+                    "flex": 1,
+                    "color": "0x000000FF",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 74,
+                    "name": "R-703",
+                    "flex": 1,
+                    "color": "0x000000FF",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 75,
+                    "name": "R-705",
+                    "flex": 1,
+                    "color": "0x000000FF",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 76,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFFC8E6C9",
+                    "border-top": "0xFFC8E6C9",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFC8E6C9"
+                },
+                
+                {
+                    "node": 77,
+                    "name": "R-706",
+                    "flex": 1,
+                    "color": "0x000000FF",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "rowData": [
+                {
+                    "node": 78,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0x000000FF",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0x000000FF"
+                },
+                {
+                    "node": 79,
+                    "name": "",
+                    "flex": 2,
+                    "color": "0xFFFFCCBC",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFFCCBC"
+                },
+                {
+                    "node": 80,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0x000000FF",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 81,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFFC8E6C9",
+                    "border-top": "0xFFC8E6C9",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFC8E6C9"
+                },
+                {
+                    "node": 82,
+                    "name": "R-725",
+                    "flex": 1,
+                    "color": "0x000000FF",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 83,
+                    "name": "",
+                    "flex": 9,
+                    "color": "0xFFFFCCBC",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFFCCBC"
+                },
+                {
+                    "node": 84,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0x000000FF",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 85,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFFC8E6C9",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFC8E6C9",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 86,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFFC8E6C9",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFC8E6C9",
+                    "border-right": "0xFFC8E6C9",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 87,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFFC8E6C9",
+                    "border-top": "0xFFC8E6C9",
+                    "border-left": "0xFFC8E6C9",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                
+                {
+                    "node": 88,
+                    "name": "R-707",
+                    "flex": 1,
+                    "color": "0x000000FF",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "rowData": [
+                {
+                    "node": 78,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0x000000FF",
+                    "border-top": "0x000000FF",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0x000000FF"
+                },
+                {
+                    "node": 79,
+                    "name": "",
+                    "flex": 2,
+                    "color": "0xFFFFCCBC",
+                    "border-top": "0xFFFFCCBC",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFFCCBC"
+                },
+                {
+                    "node": 89,
+                    "name": "washroom",
+                    "flex": 1,
+                    "color": "0x000000FF",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 90,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFFC8E6C9",
+                    "border-top": "0xFFC8E6C9",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFC8E6C9",
+                    "border-bottom": "0xFFC8E6C9"
+                },
+                {
+                    "node": 91,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFFC8E6C9",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFC8E6C9",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 83,
+                    "name": "",
+                    "flex": 10,
+                    "color": "0xFFFFCCBC",
+                    "border-top": "0xFFFFCCBC",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFFCCBC"
+                },
+                {
+                    "node": 92,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFF69F0AE",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFF69F0AE"
+                },
+                
+                {
+                    "node": 93,
+                    "name": "",
+                    "flex": 3,
+                    "color": "0xFFFFCCBC",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFFCCBC"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "rowData": [
+                {
+                    "node": 78,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0x000000FF",
+                    "border-top": "0x000000FF",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0x000000FF"
+                },
+                {
+                    "node": 79,
+                    "name": "",
+                    "flex": 2,
+                    "color": "0xFFFFCCBC",
+                    "border-top": "0xFFFFCCBC",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFFCCBC"
+                },
+                {
+                    "node": 94,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFFFFCCBC",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFFCCBC"
+                },
+                {
+                    "node": 95,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFFC8E6C9",
+                    "border-top": "0xFFC8E6C9",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFC8E6C9"
+                },
+                {
+                    "node": 96,
+                    "name": "R-726",
+                    "flex": 1,
+                    "color": "0x000000FF",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 83,
+                    "name": "",
+                    "flex": 10,
+                    "color": "0xFFFFCCBC",
+                    "border-top": "0xFFFFCCBC",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFFCCBC"
+                },
+                {
+                    "node": 92,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFF69F0AE",
+                    "border-top": "0xFF69F0AE",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFF69F0AE"
+                },
+                
+                {
+                    "node": 93,
+                    "name": "",
+                    "flex": 3,
+                    "color": "0xFFFFCCBC",
+                    "border-top": "0xFFFFCCBC",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFFCCBC"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "rowData": [
+                {
+                    "node": 78,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0x000000FF",
+                    "border-top": "0x000000FF",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0x000000FF"
+                },
+                {
+                    "node": 79,
+                    "name": "",
+                    "flex": 2,
+                    "color": "0xFFFFCCBC",
+                    "border-top": "0xFFFFCCBC",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFFCCBC"
+                },
+                {
+                    "node": 94,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFFFFCCBC",
+                    "border-top": "0xFFFFCCBC",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFFCCBC"
+                },
+                {
+                    "node": 97,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFFC8E6C9",
+                    "border-top": "0xFFC8E6C9",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFC8E6C9"
+                },
+                {
+                    "node": 98,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0x000000FF",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 83,
+                    "name": "",
+                    "flex": 10,
+                    "color": "0xFFFFCCBC",
+                    "border-top": "0xFFFFCCBC",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFFCCBC"
+                },
+                {
+                    "node": 92,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFF69F0AE",
+                    "border-top": "0xFF69F0AE",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFF69F0AE"
+                },
+                
+                {
+                    "node": 93,
+                    "name": "",
+                    "flex": 3,
+                    "color": "0xFFFFCCBC",
+                    "border-top": "0xFFFFCCBC",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFFCCBC"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "rowData": [
+                {
+                    "node": 78,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0x000000FF",
+                    "border-top": "0x000000FF",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0x000000FF"
+                },
+                {
+                    "node": 79,
+                    "name": "",
+                    "flex": 2,
+                    "color": "0xFFFFCCBC",
+                    "border-top": "0xFFFFCCBC",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFFCCBC"
+                },
+                {
+                    "node": 94,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFFFFCCBC",
+                    "border-top": "0xFFFFCCBC",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFFCCBC"
+                },
+                {
+                    "node": 99,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFFC8E6C9",
+                    "border-top": "0xFFC8E6C9",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFC8E6C9"
+                },
+                {
+                    "node": 100,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0x000000FF",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 83,
+                    "name": "open-courtyard",
+                    "flex": 10,
+                    "color": "0xFFFFCCBC",
+                    "border-top": "0xFFFFCCBC",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFFCCBC"
+                },
+                {
+                    "node": 92,
+                    "name": "Another rooftop",
+                    "flex": 1,
+                    "color": "0xFF69F0AE",
+                    "border-top": "0xFF69F0AE",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFF69F0AE"
+                },
+                
+                {
+                    "node": 93,
+                    "name": "",
+                    "flex": 3,
+                    "color": "0xFFFFCCBC",
+                    "border-top": "0xFFFFCCBC",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFFCCBC"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "rowData": [
+                {
+                    "node": 78,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0x000000FF",
+                    "border-top": "0x000000FF",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0x000000FF"
+                },
+                {
+                    "node": 79,
+                    "name": "",
+                    "flex": 2,
+                    "color": "0xFFFFCCBC",
+                    "border-top": "0xFFFFCCBC",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFFCCBC"
+                },
+                {
+                    "node": 94,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFFFFCCBC",
+                    "border-top": "0xFFFFCCBC",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFFCCBC"
+                },
+                {
+                    "node": 101,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFFC8E6C9",
+                    "border-top": "0xFFC8E6C9",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFC8E6C9"
+                },
+                {
+                    "node": 102,
+                    "name": "stair",
+                    "flex": 1,
+                    "color": "0x000000FF",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 83,
+                    "name": "",
+                    "flex": 10,
+                    "color": "0xFFFFCCBC",
+                    "border-top": "0xFFFFCCBC",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFFCCBC"
+                },
+                {
+                    "node": 92,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFF69F0AE",
+                    "border-top": "0xFF69F0AE",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFF69F0AE"
+                },
+                
+                {
+                    "node": 93,
+                    "name": "",
+                    "flex": 3,
+                    "color": "0xFFFFCCBC",
+                    "border-top": "0xFFFFCCBC",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFFCCBC"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "rowData": [
+                {
+                    "node": 78,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0x000000FF",
+                    "border-top": "0x000000FF",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 79,
+                    "name": "",
+                    "flex": 2,
+                    "color": "0xFFFFCCBC",
+                    "border-top": "0xFFFFCCBC",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 94,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFFFFCCBC",
+                    "border-top": "0xFFFFCCBC",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 103,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFFC8E6C9",
+                    "border-top": "0xFFC8E6C9",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFC8E6C9"
+                },
+                {
+                    "node": 104,
+                    "name": "lift",
+                    "flex": 1,
+                    "color": "0x000000FF",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 83,
+                    "name": "",
+                    "flex": 10,
+                    "color": "0xFFFFCCBC",
+                    "border-top": "0xFFFFCCBC",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFFCCBC"
+                },
+                {
+                    "node": 92,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFF69F0AE",
+                    "border-top": "0xFF69F0AE",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFF69F0AE"
+                },
+                
+                {
+                    "node": 93,
+                    "name": "",
+                    "flex": 3,
+                    "color": "0xFFFFCCBC",
+                    "border-top": "0xFFFFCCBC",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFFCCBC"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "rowData": [
+                {
+                    "node": 105,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0x000000FF",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 106,
+                    "name": "R-728",
+                    "flex": 1,
+                    "color": "0x000000FF",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 107,
+                    "name": "stair",
+                    "flex": 1,
+                    "color": "0x000000FF",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 108,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0x000000FF",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 109,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFFC8E6C9",
+                    "border-top": "0xFFC8E6C9",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFC8E6C9"
+                },
+                {
+                    "node": 110,
+                    "name": "lift",
+                    "flex": 1,
+                    "color": "0x000000FF",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 83,
+                    "name": "",
+                    "flex": 10,
+                    "color": "0xFFFFCCBC",
+                    "border-top": "0xFFFFCCBC",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFFCCBC"
+                },
+                {
+                    "node": 92,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFF69F0AE",
+                    "border-top": "0xFF69F0AE",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFF69F0AE"
+                },
+                
+                {
+                    "node": 93,
+                    "name": "",
+                    "flex": 3,
+                    "color": "0xFFFFCCBC",
+                    "border-top": "0xFFFFCCBC",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFFCCBC"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "rowData": [
+                {
+                    "node": 111,
+                    "name": "washroom",
+                    "flex": 1,
+                    "color": "0x000000FF",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 112,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFFC8E6C9",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFC8E6C9",
+                    "border-bottom": "0xFFC8E6C9"
+                },
+                {
+                    "node": 113,
+                    "name": "corridor",
+                    "flex": 1,
+                    "color": "0xFFC8E6C9",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFC8E6C9",
+                    "border-right": "0xFFC8E6C9",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 114,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFFC8E6C9",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFC8E6C9",
+                    "border-right": "0xFFC8E6C9",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 115,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFFC8E6C9",
+                    "border-top": "0xFFC8E6C9",
+                    "border-left": "0xFFC8E6C9",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFC8E6C9"
+                },
+                {
+                    "node": 116,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0x000000FF",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 83,
+                    "name": "",
+                    "flex": 10,
+                    "color": "0xFFFFCCBC",
+                    "border-top": "0xFFFFCCBC",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 92,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFF69F0AE",
+                    "border-top": "0xFF69F0AE",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                
+                {
+                    "node": 93,
+                    "name": "",
+                    "flex": 3,
+                    "color": "0xFFFFCCBC",
+                    "border-top": "0xFFFFCCBC",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFFCCBC"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "rowData": [
+                {
+                    "node": 117,
+                    "name": "washroom",
+                    "flex": 1,
+                    "color": "0x000000FF",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 118,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFFC8E6C9",
+                    "border-top": "0xFFC8E6C9",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFC8E6C9"
+                },
+                {
+                    "node": 119,
+                    "name": "void",
+                    "flex": 2,
+                    "color": "0xFFF44336",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFF44336"
+                },
+                {
+                    "node": 120,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFFC8E6C9",
+                    "border-top": "0xFFC8E6C9",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFC8E6C9"
+                },
+                {
+                    "node": 121,
+                    "name": "R-737",
+                    "flex": 1,
+                    "color": "0x000000FF",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 122,
+                    "name": "",
+                    "flex": 11,
+                    "color": "0xFFFFCCBC",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFFCCBC"
+                },
+                {
+                    "node": 93,
+                    "name": "",
+                    "flex": 3,
+                    "color": "0xFFFFCCBC",
+                    "border-top": "0xFFFFCCBC",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFFCCBC"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "rowData": [
+                {
+                    "node": 123,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0x000000FF",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 124,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFFC8E6C9",
+                    "border-top": "0xFFC8E6C9",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFC8E6C9"
+                },
+                {
+                    "node": 119,
+                    "name": "",
+                    "flex": 2,
+                    "color": "0xFFF44336",
+                    "border-top": "0xFFF44336",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 125,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFFC8E6C9",
+                    "border-top": "0xFFC8E6C9",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFC8E6C9"
+                },
+                {
+                    "node": 126,
+                    "name": "R-736",
+                    "flex": 1,
+                    "color": "0x000000FF",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 122,
+                    "name": "",
+                    "flex": 11,
+                    "color": "0xFFFFCCBC",
+                    "border-top": "0xFFFFCCBC",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFFCCBC"
+                },
+                {
+                    "node": 93,
+                    "name": "",
+                    "flex": 3,
+                    "color": "0xFFFFCCBC",
+                    "border-top": "0xFFFFCCBC",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFFCCBC"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "rowData": [
+                {
+                    "node": 127,
+                    "name": "R-739",
+                    "flex": 1,
+                    "color": "0x000000FF",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 128,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFFC8E6C9",
+                    "border-top": "0xFFC8E6C9",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFC8E6C9",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 129,
+                    "name": "corridor",
+                    "flex": 1,
+                    "color": "0xFFC8E6C9",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFC8E6C9",
+                    "border-right": "0xFFC8E6C9",
+                    "border-bottom": "0xFFC8E6C9"
+                },
+                {
+                    "node": 130,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFFC8E6C9",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFC8E6C9",
+                    "border-right": "0xFFC8E6C9",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 131,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFFC8E6C9",
+                    "border-top": "0xFFC8E6C9",
+                    "border-left": "0xFFC8E6C9",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 132,
+                    "name": "R-735",
+                    "flex": 1,
+                    "color": "0x000000FF",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 122,
+                    "name": "void",
+                    "flex": 11,
+                    "color": "0xFFFFCCBC",
+                    "border-top": "0xFFFFCCBC",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFFCCBC"
+                },
+                {
+                    "node": 93,
+                    "name": "",
+                    "flex": 3,
+                    "color": "0xFFFFCCBC",
+                    "border-top": "0xFFFFCCBC",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFFCCBC"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "rowData": [
+                {
+                    "node": 133,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0x000000FF",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 134,
+                    "name": "R-731",
+                    "flex": 1,
+                    "color": "0x000000FF",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 135,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFFC8E6C9",
+                    "border-top": "0xFFC8E6C9",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFC8E6C9"
+                },
+                {
+                    "node": 136,
+                    "name": "R-732",
+                    "flex": 1,
+                    "color": "0x000000FF",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 137,
+                    "name": "R-734",
+                    "flex": 1,
+                    "color": "0x000000FF",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 138,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0x000000FF",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 122,
+                    "name": "",
+                    "flex": 11,
+                    "color": "0xFFFFCCBC",
+                    "border-top": "0xFFFFCCBC",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 93,
+                    "name": "",
+                    "flex": 3,
+                    "color": "0xFFFFCCBC",
+                    "border-top": "0xFFFFCCBC",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "rowData": [
+                {
+                    "node": 139,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0x000000FF",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 140,
+                    "name": "R-730",
+                    "flex": 1,
+                    "color": "0x000000FF",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 141,
+                    "name": "",
+                    "flex": 1,
+                    "color": "0xFFC8E6C9",
+                    "border-top": "0xFFC8E6C9",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 142,
+                    "name": "",
+                    "flex": 3,
+                    "color": "0x000000FF",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                },
+                {
+                    "node": 143,
+                    "name": "",
+                    "flex": 14,
+                    "color": "0xFFFFCCBC",
+                    "border-top": "0xFFFF0000",
+                    "border-left": "0xFFFF0000",
+                    "border-right": "0xFFFF0000",
+                    "border-bottom": "0xFFFF0000"
+                }
+            ]
+        }
+    ]
+}
