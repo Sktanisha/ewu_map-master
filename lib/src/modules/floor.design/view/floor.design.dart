@@ -129,7 +129,7 @@ class FloorDesign extends ConsumerWidget {
                   .toSet()
                   .toList(),
               pairsList: floor.edgeVertics,
-              floorName: groundFloor,
+              floorName: getFloorName(floor.floor),
               ref: ref,
               from: from.node,
               to: to.node,
