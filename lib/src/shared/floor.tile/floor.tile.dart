@@ -20,9 +20,7 @@ class FloorTile extends ConsumerWidget {
       child: Container(
         alignment: Alignment.center,
         decoration: BoxDecoration(
-          color: isChecked
-              ? context.theme.primaryColor.withOpacity(0.5)
-              : Color(int.parse(rowDatum.color)),
+          color: isChecked ? Colors.green : Color(int.parse(rowDatum.color)),
           border: Border(
             top: BorderSide(
               color: Color(int.parse(rowDatum.borderTop)),

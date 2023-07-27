@@ -75,7 +75,7 @@ class FloorDesign extends ConsumerWidget {
           value: ref.watch(fromPd(groundFloor)),
           onChanged: (v) =>
               ref.read(fromPd(groundFloor).notifier).update((_) => v),
-          items: list.map((RowDatum value) {
+          items: (list.where((e) => e.name != '')).map((RowDatum value) {
             return DropdownMenuItem<RowDatum>(
               value: value,
               child: Padding(
@@ -97,7 +97,7 @@ class FloorDesign extends ConsumerWidget {
           value: ref.watch(toPd(groundFloor)),
           onChanged: (v) =>
               ref.read(toPd(groundFloor).notifier).update((_) => v),
-          items: list.map((RowDatum value) {
+          items: (list.where((e) => e.name != '')).map((RowDatum value) {
             return DropdownMenuItem<RowDatum>(
               value: value,
               child: Padding(
